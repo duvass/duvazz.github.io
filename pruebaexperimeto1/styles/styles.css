@@ -1,0 +1,48 @@
+ h1, h2 {
+    font-size: 40px;
+    font-family:'Permanent marker', Cursive;
+    text-align:center;
+    letter-spacing: 2px;
+    color:#E6A4F3;
+
+ }
+p, ul {
+    font-size: 30px;
+    font-family:"Ramaraja", serif;
+    text-align:left;
+    line-height:30px;
+    letter-spacing:2px;
+    
+}
+html {
+    background-color:#E6A4F3;
+}
+body {   width: 1000px;
+    margin: 0 auto;
+    background-color:#F1D3F7;
+    padding:0 15px 15px 15px;
+    border: 5px solid #A1E4EB;
+
+}
+h1, h2{
+    margin: 0;
+    padding:40px 0;
+    text-shadow:2px 2px 0px black;
+}
+img{
+    margin:0 auto;
+    display:block;
+    min-width:700px;
+    max-width:550px;
+}
+h3 {
+  font-size:40px;
+  font-family:"Permanent Marker", Cursive;
+  text-align:center;
+  letter-spacing:2px;
+  color:#E6A4F3;
+  margin:0;
+  padding:40px 0;
+  text-shadow:2px 2px 0px black;
+
+}
